@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_3 数组的解构/lesson_3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-63">
               <caret selection-end-column="45" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson_5 解构的实际应用/lesson_5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -30,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="252">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -51,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
@@ -84,10 +94,11 @@
         <option value="$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_1.js" />
         <option value="$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_2.js" />
         <option value="$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_3.js" />
+        <option value="$PROJECT_DIR$/lesson_5 解构的实际应用/lesson_5.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-40" />
     <option name="y" value="40" />
     <option name="width" value="1750" />
@@ -128,6 +139,11 @@
               <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="lesson_4 对象和字符串的解构" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lesson_5 解构的实际应用" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,10 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lesson_4_3.js">
-    <configuration name="lesson_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_2.js" working-dir="$PROJECT_DIR$/lesson_2  const">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.lesson_5.js">
     <configuration name="lesson_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lesson_3 数组的解构/lesson_3.js" working-dir="$PROJECT_DIR$/lesson_3 数组的解构">
       <method v="2" />
     </configuration>
@@ -175,13 +188,16 @@
     <configuration name="lesson_4_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_4_3.js" working-dir="$PROJECT_DIR$/lesson_4 对象和字符串的解构">
       <method v="2" />
     </configuration>
+    <configuration name="lesson_5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_5.js" working-dir="$PROJECT_DIR$/lesson_5 解构的实际应用">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lesson_5.js" />
         <item itemvalue="Node.js.lesson_4_3.js" />
         <item itemvalue="Node.js.lesson_4_2.js" />
         <item itemvalue="Node.js.lesson_4_1.js" />
         <item itemvalue="Node.js.lesson_3.js" />
-        <item itemvalue="Node.js.lesson_2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -196,23 +212,23 @@
       <option name="presentableId" value="Default" />
       <updated>1594777533480</updated>
       <workItem from="1594777534605" duration="10247000" />
-      <workItem from="1594801290854" duration="2848000" />
+      <workItem from="1594801290854" duration="5644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13095000" />
+    <option name="totallyTimeSpent" value="15891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,26 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_3 数组的解构/lesson_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="45" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -284,6 +280,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_3 数组的解构/lesson_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret selection-end-column="45" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5 解构的实际应用/lesson_5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
