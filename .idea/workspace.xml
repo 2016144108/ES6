@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_7 rest参数/lesson_7.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -59,6 +60,15 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="181" column="3" lean-forward="true" selection-start-line="181" selection-start-column="3" selection-end-line="181" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -124,6 +134,7 @@
         <option value="$PROJECT_DIR$/lesson_6 函数默认值/lesson_6.js" />
         <option value="$PROJECT_DIR$/lesson_6 函数参数默认值/lesson_6.js" />
         <option value="$PROJECT_DIR$/lesson_7 rest参数/lesson_7.js" />
+        <option value="$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js" />
       </list>
     </option>
   </component>
@@ -152,22 +163,7 @@
             <path>
               <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_4 对象和字符串的解构" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_5 解构的实际应用" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_6 函数参数默认值" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_7 rest参数" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lesson_8 箭头函数" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -199,10 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lesson_7.js">
-    <configuration name="lesson_4_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_4_2.js" working-dir="$PROJECT_DIR$/lesson_4 对象和字符串的解构">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.lesson_8.js">
     <configuration name="lesson_4_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_4_3.js" working-dir="$PROJECT_DIR$/lesson_4 对象和字符串的解构">
       <method v="2" />
     </configuration>
@@ -215,13 +208,16 @@
     <configuration name="lesson_7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_7.js" working-dir="$PROJECT_DIR$/lesson_7 rest参数">
       <method v="2" />
     </configuration>
+    <configuration name="lesson_8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_8.js" working-dir="$PROJECT_DIR$/lesson_8 箭头函数">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lesson_8.js" />
         <item itemvalue="Node.js.lesson_7.js" />
         <item itemvalue="Node.js.lesson_6.js" />
         <item itemvalue="Node.js.lesson_5.js" />
         <item itemvalue="Node.js.lesson_4_3.js" />
-        <item itemvalue="Node.js.lesson_4_2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -237,12 +233,12 @@
       <updated>1594777533480</updated>
       <workItem from="1594777534605" duration="10247000" />
       <workItem from="1594801290854" duration="6223000" />
-      <workItem from="1594884173741" duration="3269000" />
+      <workItem from="1594884173741" duration="9074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19739000" />
+    <option name="totallyTimeSpent" value="25544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -253,7 +249,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.64529914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,6 +351,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="181" column="3" lean-forward="true" selection-start-line="181" selection-start-column="3" selection-end-line="181" selection-end-column="3" />
         </state>
       </provider>
     </entry>
