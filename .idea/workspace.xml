@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,110 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_3 数组的解构/lesson_3.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson_10 对象的扩展/lesson_10.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="45" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_5 解构的实际应用/lesson_5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_6 函数参数默认值/lesson_6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_7 rest参数/lesson_7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2942">
-              <caret line="175" column="38" lean-forward="true" selection-start-line="175" selection-start-column="38" selection-end-line="175" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="3" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_4 对象和字符串的解构/lesson_4_3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -156,10 +56,11 @@
         <option value="$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9.js" />
         <option value="$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_1.js" />
         <option value="$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_2.js" />
+        <option value="$PROJECT_DIR$/lesson_10 对象的扩展/lesson_10.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-40" />
     <option name="y" value="40" />
     <option name="width" value="1750" />
@@ -188,7 +89,12 @@
             <path>
               <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_9 字符串扩展" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lesson_8 箭头函数" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lesson_10 对象的扩展" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -221,8 +127,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lesson_9_2.js">
-    <configuration name="lesson_6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lesson_6 函数参数默认值/lesson_6.js" working-dir="$PROJECT_DIR$/lesson_6 函数参数默认值">
+  <component name="RunManager" selected="Node.js.lesson_10.js">
+    <configuration name="lesson_10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_10.js" working-dir="$PROJECT_DIR$/lesson_10 对象的扩展">
       <method v="2" />
     </configuration>
     <configuration name="lesson_7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_7.js" working-dir="$PROJECT_DIR$/lesson_7 rest参数">
@@ -239,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lesson_10.js" />
         <item itemvalue="Node.js.lesson_9_2.js" />
         <item itemvalue="Node.js.lesson_9_1.js" />
         <item itemvalue="Node.js.lesson_8.js" />
         <item itemvalue="Node.js.lesson_7.js" />
-        <item itemvalue="Node.js.lesson_6.js" />
       </list>
     </recent_temporary>
   </component>
@@ -260,12 +166,12 @@
       <workItem from="1594777534605" duration="10247000" />
       <workItem from="1594801290854" duration="6223000" />
       <workItem from="1594884173741" duration="10382000" />
-      <workItem from="1594953956121" duration="3597000" />
+      <workItem from="1594953956121" duration="5557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30449000" />
+    <option name="totallyTimeSpent" value="32409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -276,7 +182,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.62393165" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26068377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,13 +267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2942">
-          <caret line="175" column="38" lean-forward="true" selection-start-line="175" selection-start-column="38" selection-end-line="175" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_7 rest参数/lesson_7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -390,15 +289,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
+        <state relative-caret-position="1050">
           <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_9 字符串扩展/lesson_9_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="320">
           <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_8 箭头函数/lesson_8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2942">
+          <caret line="175" column="38" lean-forward="true" selection-start-line="175" selection-start-column="38" selection-end-line="175" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_10 对象的扩展/lesson_10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
