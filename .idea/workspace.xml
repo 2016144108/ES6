@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="" />
+    <list default="true" id="d02cc20c-de4e-4ece-b916-383e4fe503ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/86187.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,40 +17,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_10 对象的扩展/lesson_10.js">
+        <entry file="file://$PROJECT_DIR$/lesson_13 promise/lesson_13.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="79" selection-start-line="79" selection-end-line="79" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_11 class/lesson_11_1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-367">
-              <caret line="74" column="10" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="10" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson_12 异常处理/lesson_12.js">
+        <entry file="file://$PROJECT_DIR$/lesson_13 promise/lesson_13.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="168">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson_11 class/lesson_11_2.js">
+        <entry file="file://$PROJECT_DIR$/lesson_13 promise/jquery.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+            <state relative-caret-position="63">
+              <caret line="3" column="23" lean-forward="true" selection-end-line="3" selection-end-column="20225" />
             </state>
           </provider>
         </entry>
@@ -58,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -89,6 +81,8 @@
         <option value="$PROJECT_DIR$/lesson_11 class/lesson_11_1.js" />
         <option value="$PROJECT_DIR$/lesson_11 class/lesson_11_2.js" />
         <option value="$PROJECT_DIR$/lesson_12 异常处理/lesson_12.js" />
+        <option value="$PROJECT_DIR$/lesson_13 promise/lesson_13.js" />
+        <option value="$PROJECT_DIR$/lesson_13 promise/lesson_13.html" />
       </list>
     </option>
   </component>
@@ -116,7 +110,7 @@
             <path>
               <item name="ES6" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="E:\前端工程\ES6" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lesson_12 异常处理" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lesson_13 promise" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -126,13 +120,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/javaweb/userManager/ums_front" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson_13 promise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\前端工程\ES6\lesson_13 promise" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\前端工程\ES6" />
     </key>
@@ -149,8 +147,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.lesson_12.js">
-    <configuration name="lesson_10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_10.js" working-dir="$PROJECT_DIR$/lesson_10 对象的扩展">
+  <component name="RunManager" selected="JavaScript Debug.lesson_13.html">
+    <configuration name="lesson_13.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ES6/lesson_13 promise/lesson_13.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="lesson_11_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lesson_11 class/lesson_11_1.js" working-dir="$PROJECT_DIR$/lesson_11 class">
@@ -162,16 +160,16 @@
     <configuration name="lesson_12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_12.js" working-dir="$PROJECT_DIR$/lesson_12 异常处理">
       <method v="2" />
     </configuration>
-    <configuration name="lesson_9_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_9_2.js" working-dir="$PROJECT_DIR$/lesson_9 字符串扩展">
+    <configuration name="lesson_13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson_13.js" working-dir="$PROJECT_DIR$/lesson_13 promise">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.lesson_13.html" />
+        <item itemvalue="Node.js.lesson_13.js" />
         <item itemvalue="Node.js.lesson_12.js" />
         <item itemvalue="Node.js.lesson_11_2.js" />
         <item itemvalue="Node.js.lesson_11_1.js" />
-        <item itemvalue="Node.js.lesson_10.js" />
-        <item itemvalue="Node.js.lesson_9_2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -189,14 +187,15 @@
       <workItem from="1594801290854" duration="6223000" />
       <workItem from="1594884173741" duration="10382000" />
       <workItem from="1594953956121" duration="14112000" />
+      <workItem from="1595641771768" duration="6421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40964000" />
+    <option name="totallyTimeSpent" value="47385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -204,7 +203,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.58831906" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.08974359" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,21 +331,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_10 对象的扩展/lesson_10.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="1659">
           <caret line="79" selection-start-line="79" selection-end-line="79" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_11 class/lesson_11_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_11 class/lesson_11_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
+        <state relative-caret-position="1533">
           <caret line="74" column="10" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -354,10 +346,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_11 class/lesson_11_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_12 异常处理/lesson_12.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_13 promise/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="23" lean-forward="true" selection-end-line="3" selection-end-column="20225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_13 promise/lesson_13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_13 promise/lesson_13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
